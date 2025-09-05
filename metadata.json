@@ -1,0 +1,5 @@
+{
+  "name": "WordWeb AI Mind Map",
+  "description": "An AI-powered mind mapping tool that generates a web of related words from a starting concept. Click on any word to expand the web and explore deeper connections.",
+  "requestFramePermissions": []
+}
